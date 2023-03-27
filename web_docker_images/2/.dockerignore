@@ -1,7 +1,0 @@
-# files to not include in the image
-Dockerfile
-docker-compose.yml
-readme.txt
-solve.txt
-src.zip
-*gcloud*

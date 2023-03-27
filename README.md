@@ -1,3 +1,3 @@
-Web challenges and solveres I created for the Wolverine Security Conference CTF in March 2022.
+Moved:
 
-https://ctftime.org/event/1612
+https://github.com/sambrow/my_ctf_challenges/tree/main/wolvsec_ctf_2022
